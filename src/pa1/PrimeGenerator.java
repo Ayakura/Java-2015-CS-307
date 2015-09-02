@@ -32,7 +32,7 @@ public class PrimeGenerator
     	  current++;
       }
 
-      return current;
+      return current; //returning the prime number
    }
 
    /**
