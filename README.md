@@ -1,1 +1,1 @@
-Java COMS 307 homework repo for future reference
+Java COMS 307 homework repo for future reference. Do your own homework boys and girls
