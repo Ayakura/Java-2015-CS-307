@@ -104,6 +104,7 @@ public class Bank
 				
 				find(accountNum1).withdraw(amount);
 				find(accountNum2).deposit(amount);
+				
 			}
 		}
 	}
